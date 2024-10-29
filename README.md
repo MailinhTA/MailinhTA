@@ -3,6 +3,8 @@
 </h1>
 <h3 align="center">Studying in IT</h3>
 
+<img align="right" src="./image/retro-wallpaper.jpg">  
+
 - 🔭 I’m currently working on [Good At School](https://www.goodatschool.org/)
 
 - 🌱 I’m currently learning **courses in Cybersecurity, Network Architecture, Software Engineering etc.**
