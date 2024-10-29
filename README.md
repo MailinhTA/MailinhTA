@@ -1,7 +1,7 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2880&width=435&lines=Welcome+to+my+profile%2C+I+am+Mailinh+!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Studying in IT</h3>
+<h3 align="center">Studying in IT : 🎓 In training, I am looking to get interested in many areas of tech</h3>
 
 <div align="center">
    <img src="./image/retro-wallpaper.jpg" width="1000" height="300">
