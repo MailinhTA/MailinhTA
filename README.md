@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Studying in IT</h3>
 
-<img align="right" src="./image/retro-wallpaper.jpg">  
+<img align="right" src="./image/retro-wallpaper.jpg" width="600" height="500">  
 
 - 🔭 I’m currently working on [Good At School](https://www.goodatschool.org/)
 
